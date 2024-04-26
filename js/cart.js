@@ -49,6 +49,18 @@ let products = [
         name: 'Elegant Heels',
         image: 'footwears1.avif',
         price: 120000
+    },
+    {
+        id: 5,
+        name: 'Female Leather Jacket',
+        image: 'myproduct1.avif',
+        price: 2000
+    },
+    {
+        id: 6,
+        name: 'Elegant Footwears',
+        image: 'footwears4.avif',
+        price: 3000
     }
 ];
 let listCards  = [];

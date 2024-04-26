@@ -46,7 +46,7 @@ let products = [
     },
     {
         id: 6,
-        name: 'PRODUCT NAME 6',
+        name: 'Elegant Heels',
         image: 'footwears1.avif',
         price: 120000
     }
